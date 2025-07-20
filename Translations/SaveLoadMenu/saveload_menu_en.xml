@@ -1,0 +1,12 @@
+<Translations>
+	<SaveGame>セーブ</SaveGame>
+	<LoadGame>ロード</LoadGame>
+	<NewSave>ニューセーブ</NewSave>
+	<HideAutosaves>オートセーブの非表示</HideAutosaves>
+	<ContinueGame>コンテニュー</ContinueGame>
+	<Overwrite>Overwrite</Overwrite>
+	<NameSave>Name Your Save:</NameSave>
+	<SavingText>Saving...</SavingText>
+	<LoadingText>Loading...</LoadingText>
+	<SaveSuccess>Save Successful!</SaveSuccess>
+</Translations>

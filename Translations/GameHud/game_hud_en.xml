@@ -1,0 +1,231 @@
+<Translations>
+	<Construct>建築</Construct>
+	<ConstructTooltip>設計図を建築&lt;br&gt;Key: {0}</ConstructTooltip>
+	<CloseCategoryTooltip>カテゴリを閉じる&lt;br&gt;Key: {0}</CloseCategoryTooltip>
+	
+	<TerraformTooltip>テラフォームする&lt;br&gt;Key: {0}</TerraformTooltip>
+	<GridTerraformTooltip>グリッドベースでのテラフォーム&lt;br&gt;Key: {0}</GridTerraformTooltip>
+	<DynamicTerraformTooltip>地形を最も近いグリットまで上下する&lt;br&gt;Key: {0}</DynamicTerraformTooltip>
+	<LevelTerraformTooltip>ホバリングした高さに合わせ、地面を水平にする&lt;br&gt;Key: {0}</LevelTerraformTooltip>
+	<IncreaseTerraformTooltip>地面の高さを最も近いグリットまで上げる&lt;br&gt;Key: {0}</IncreaseTerraformTooltip>
+	<DecreaseTerraformTooltip>地面の高さを最も近いグリットまで下げる&lt;br&gt;Key: {0}</DecreaseTerraformTooltip>
+	
+	<Deconstruct>撤去</Deconstruct>
+	<DeconstructTooltip>配置された建物を撤去する&lt;br&gt;Key: {0}</DeconstructTooltip>
+
+	<ClearOrders>命令をクリア</ClearOrders>
+	<ClearOrdersTooltip>指定した命令のクリア&lt;br&gt;Key: {0}</ClearOrdersTooltip>
+	<CutOrderTooltip>木や茂みを切るように命令する&lt;br&gt;Key: {0}</CutOrderTooltip>
+	<MineOrderTooltip>資源の採掘を命令する&lt;br&gt;Key: {0}</MineOrderTooltip>
+	<HaulOrderTooltip>アイテムの運搬命令&lt;br&gt;Key: {0}</HaulOrderTooltip>
+	<AllowOrderTooltip>全員に指定されたアイテムを使用可能にする&lt;br&gt;Key: {0}</AllowOrderTooltip>
+	<DenyOrderTooltip>全員に指定されたアイテ厶を使用を禁止する&lt;br&gt;Key: {0}</DenyOrderTooltip>
+	<TerraformOrderTooltip>平坦化作業を命令する&lt;br&gt;Key: {0}</TerraformOrderTooltip>
+	
+	<SafeZoneTooltip>住人の安全区域タイルを指定する&lt;br&gt;Key: {0}</SafeZoneTooltip>
+	<UnsafeZoneTooltip>安全区域タイルを削除する&lt;br&gt;Key: {0}</UnsafeZoneTooltip>
+
+	<OffViewModeAbbr>オフ</OffViewModeAbbr>
+	<LevelViewModeAbbr>高度</LevelViewModeAbbr>
+	<FoundationViewModeAbbr>地面</FoundationViewModeAbbr>
+	<RoofViewModeAbbr>屋根</RoofViewModeAbbr>
+	<OffViewModeTooltip>標準表示モード&lt;br&gt;Key: {0}</OffViewModeTooltip>
+	<LevelViewModeTooltip>指定の高さのオブジェクトを非表示&lt;br&gt;Key: {0}</LevelViewModeTooltip>
+	<FoundationViewModeTooltip>壁や床を非表示にし、指定の高さのオブジェクトを非表示&lt;br&gt;Key: {0}</FoundationViewModeTooltip>
+	<NoRoofViewModeTooltip>屋根のみを非表示&lt;br&gt;Key: {0}</NoRoofViewModeTooltip>
+
+	<RaisePlaneTooltip>グリット平面を上げる&lt;br&gt;Key: {0}</RaisePlaneTooltip>
+	<LowerPlaneTooltip>グリット平面を下げる&lt;br&gt;Key: {0}</LowerPlaneTooltip>
+	<CurrentPlaneHeightTooltip>現在のグリットの高さ</CurrentPlaneHeightTooltip>
+	
+	<ChangeBpSnapToTooltip>設計図のオートスナップ機能の切り替え</ChangeBpSnapToTooltip>
+	
+	<Debug>デバッグ</Debug>
+	<DebugMenuTooltip>デバッグ機能</DebugMenuTooltip>
+	<DebugDamageTooltip>クリック時 {0} 与えるダメージ</DebugDamageTooltip>
+
+	<NumAmount>数量: {0}</NumAmount>
+	
+	<InputKey>キー: {0}</InputKey>
+	<Makes>この機器の生産可能アイテム</Makes>
+	<Takes>必要材料</Takes>
+	<ToBuild>建設材料 {0}</ToBuild>
+	<MadeInText>クラフト可能な機器</MadeInText>
+	<ToMakeText>作られた製品の用途</ToMakeText>
+	<RecipeToCraft>クラフトレシピ</RecipeToCraft>
+	<MissingIngredients>&lt;color="yellow"&gt;黄色の表示&lt;/color&gt;は原材料の不足</MissingIngredients>
+	<ValidFuel>有効な燃料</ValidFuel>
+	<RecipeCraftTime>クラフト時間: {0}</RecipeCraftTime>
+	<BlueprintRequirements>クラフトレシピ</BlueprintRequirements>
+	<TooltipPinning>ツールチップの固定 P キー</TooltipPinning>
+	<TooltipUnpinning>ツールチップの非表示 P キー</TooltipUnpinning>
+	<Time>時間</Time>
+
+	<InvalidExpansion>無効なエリア</InvalidExpansion>
+	
+	<FuelSlot>燃料スロット</FuelSlot>
+	
+	<LevelDisplay>レベル {0}</LevelDisplay>
+	<NextLevel>Next レベル:</NextLevel>
+	
+	<Day>DAY</Day>
+	
+	<Swap>交換</Swap>
+	<Drop>落とす</Drop>
+	<HandsFree>素手</HandsFree>
+	<NoWeapon>武器なし</NoWeapon>
+	<NoArmor>防具なし</NoArmor>
+	<LocateEntityTooltip>エンティティへの移動</LocateEntityTooltip>
+	<OpenPioneerModalTooltip>社員プロフィール</OpenPioneerModalTooltip>
+	<DraftPioneerTooltip>命令</DraftPioneerTooltip>
+	<SelectedBuildingDemolishTooltip>建物の解体</SelectedBuildingDemolishTooltip>
+
+	<EntityMultiselect>{0} 選択</EntityMultiselect>
+	
+	<StockAll>全てストック</StockAll>
+	<EmptyAll>全て空にする</EmptyAll>
+	<ResetAll>全てリセット</ResetAll>
+	<StockingUp>補充</StockingUp>
+	<Emptying>空</Emptying>
+	<StockpileStackEmpty>空のストック</StockpileStackEmpty>
+	<StockpileStackEmptyDescription>全てのアイテムの搬入を許可</StockpileStackEmptyDescription>
+	<StockpileStackLocked>アイテムの禁止</StockpileStackLocked>
+	<StockpileStackLockedDescription>アイテムの搬入禁止</StockpileStackLockedDescription>
+	<StockpileStackHeight>最大在庫</StockpileStackHeight>
+	<StockpileSlotHeight> {0} の高さ</StockpileSlotHeight>
+	<StockpileSlotApplyClosed>全ての空きに搬入可</StockpileSlotApplyClosed>
+	<StockpileEmptyAllTooltip>在庫を空にし、搬入を禁止</StockpileEmptyAllTooltip>
+	
+	<DpsInfo>DPS: {0}</DpsInfo>
+	<DamageInfo>ダメージ: {0}</DamageInfo>
+	<AttacksPerSecond>秒間ダメージ: {0}</AttacksPerSecond>
+	<RangeInfo>射程: {0}</RangeInfo>
+	
+	<Events>イベント</Events>
+	<Quests>クエスト</Quests>
+	<Tutorial>チュートリアル</Tutorial>
+	<Company>会社従業員</Company>
+	<Schedules>スケジュール</Schedules>
+
+	<Priorities>優先度</Priorities>
+	<CopyPriorities>優先度のコピー</CopyPriorities>
+	<PastePriorities>優先度のペースト</PastePriorities>
+	<CancelCopyPastePriorities>優先度コピーのキャンセル</CancelCopyPastePriorities>
+	
+	<HigherPriority>← 優先度を上げる</HigherPriority>
+	<LowerPriority>優先度を下げる →</LowerPriority>
+	<NoExperienceExplanation>黒:経験無し</NoExperienceExplanation>
+	<ExperiencedExplanation>白:経験豊富</ExperiencedExplanation>
+	<Forbidden>禁止</Forbidden>
+	<HighestPriority>最優先</HighestPriority>
+	<TalentExplanation>緑:才能有り</TalentExplanation>
+
+	<Messages>メッセージ</Messages>
+	<Message>メッセージ</Message>
+	
+	<OverviewTab>オーバービュー</OverviewTab>
+	<EventsTab>イベント</EventsTab>
+
+	<NextPioneer>次 &gt;</NextPioneer>
+	<PreviousPioneer>&lt; 戻る</PreviousPioneer>
+	
+	<PioneerHealth>健康</PioneerHealth>
+	<PioneerHealthDescription>健康を心がけよう。それを失えば最後の故郷へと去っていく</PioneerHealthDescription>
+	<PioneerEnergy>休息</PioneerEnergy>
+	<PioneerEnergyDescription>生産性を維持し、大きなミスを避けるために十分な休息が必要です</PioneerEnergyDescription>
+	<PioneerLoyalty>忠誠</PioneerLoyalty>
+	<PioneerLoyaltyDescription>皆からの忠誠心が必要です。彼らを満足させないと反乱の危険性があります</PioneerLoyaltyDescription>
+	<PioneerBathroom>トイレ</PioneerBathroom>
+	<PioneerBathroomDescription>彼らは生理現象による臭い問題を抱えています。トイレを建設するか、その後始末を覚悟してください。ガタゴー！ガタゴー！</PioneerBathroomDescription>
+	<PioneerHunger>空腹</PioneerHunger>
+	<PioneerHungerDescription>エネルギーを維持し、よく働くためには食事が必要です。栄養満点、高タンパクな食事ならミスターソイレントがオススメ</PioneerHungerDescription>
+	<PioneerHygiene>衛生</PioneerHygiene>
+	<PioneerHygieneDescription>手を洗いましょう。でないと次の宇宙インフルエンザの感染者Patient Zeronになります.楽しんでください</PioneerHygieneDescription>
+	
+	<Event>イベント</Event>
+	<Quest>クエスト</Quest>
+	<Tutorial>チュートリアル</Tutorial>
+
+	<Anyone>運搬許可</Anyone>
+	<AllItems>全てのアイテム</AllItems>
+	<HaulTo>運搬先</HaulTo>
+
+	<Anything>自由時間</Anything>
+	<Work>仕事</Work>
+	<Recreation>レクリエーション</Recreation>
+	
+	<Firefight>消火</Firefight>
+	<Sleep>睡眠</Sleep>
+	<Doctor>救命</Doctor>
+	<Cook>料理</Cook>
+	<Mine>採掘</Mine>
+	<Terra>テラフォーム</Terra>
+	<Chop>伐採</Chop>
+	<Craft>クラフト</Craft>
+	<Repair>修理</Repair>
+	<Maintain>維持</Maintain>
+	<Haul>運搬</Haul>
+	<Clean>掃除</Clean>
+	<Clear>クリア</Clear>
+	<Cut>伐採</Cut>
+	<Allow>許可</Allow>
+	<Deny>禁止</Deny>
+	<Terraform>平坦化</Terraform>
+
+	<FirefightExplanation>消火活動</FirefightExplanation>
+	<DoctorExplanation>負傷者の治療、セーフゾーンへの搬送を行う</DoctorExplanation>
+	<MineExplanation>鉱物を採掘する</MineExplanation>
+	<ChopExplanation>木や枝の伐採</ChopExplanation>
+	<ConstructExplanation>建築</ConstructExplanation>
+	<CraftExplanation>作業台でアイテムと設計図を作製する</CraftExplanation>
+	<RepairExplanation>ダメージを受けた構造物を修理する</RepairExplanation>
+	<MaintainExplanation>機器のメンテナンス、及び保守作業</MaintainExplanation>
+	<HaulExplanation>アイテムの運搬</HaulExplanation>
+	
+	<Safe>保全</Safe>
+	<Unsafe>消去</Unsafe>
+
+	<Botany>植物学</Botany>
+	<Charisma>カリスマ</Charisma>
+	<Construction>建築</Construction>
+	<Cooking>料理</Cooking>
+	<Crafting>クラフト</Crafting>
+	<Husbandry>耕作</Husbandry>
+	<Medicine>医療</Medicine>
+	<Melee>近接</Melee>
+	<Science>科学</Science>
+	<Shooting>射撃</Shooting>
+	<Mining>採掘</Mining>
+	<WoodCutting>伐採</WoodCutting>
+	
+	<MineGoapGoal>鉱床</MineGoapGoal>
+	<RepairGoapGoal>修理</RepairGoapGoal>
+	<ExtinguishGoapGoal>消火</ExtinguishGoapGoal>
+	<CraftGoapGoal>クラフト</CraftGoapGoal>
+	<FellingGoapGoal>裁断</FellingGoapGoal>
+	<HaulGoapGoal>運搬</HaulGoapGoal>
+	<MoveGoapGoal>移動</MoveGoapGoal>
+	<KillEntityGoapGoal>キル</KillEntityGoapGoal>
+	<MeleeEntityGoapGoal>近接</MeleeEntityGoapGoal>
+	<RangedEntityGoapGoal>射撃</RangedEntityGoapGoal>
+	<EatGoapGoal>食事</EatGoapGoal>
+	<SleepGoapGoal>睡眠</SleepGoapGoal>
+	<DookGoapGoal>利用</DookGoapGoal>
+	<WashGoapGoal>洗浄</WashGoapGoal>
+	<HealthRegenGoapGoal>治療</HealthRegenGoapGoal>
+	<TerraformGoapGoal>テラフォーム</TerraformGoapGoal>
+
+	<IncreaseBlueprintPriority>優先度を上げる</IncreaseBlueprintPriority>
+	<DecreaseBlueprintPriority>優先度を下げる</DecreaseBlueprintPriority>
+	<CancelBlueprint>設計のキャンセル</CancelBlueprint>
+
+	<InDevelopmentInfo>（未実装）This feature is still in development and does not have any functionality yet.
+However, the interface is operational and available for you to test.
+It will be included as part of the Early Access Release.</InDevelopmentInfo>
+	
+	<BlueprintPlacementInvalidTerrain>Blocked by Terrain</BlueprintPlacementInvalidTerrain>
+	<BlueprintPlacementInvalidObstacle>Blocked by Obstacle</BlueprintPlacementInvalidObstacle>
+	
+	<Alarm>アラーム</Alarm>
+	<Help>ヘルプ</Help>
+</Translations>

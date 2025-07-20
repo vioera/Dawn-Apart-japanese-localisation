@@ -1,0 +1,25 @@
+<Translations>
+    <DataAnalytics>Data Analytics</DataAnalytics>
+    <AllowAnalytics>Allow Analytics</AllowAnalytics>
+    <AnalyticsConsentContent>We are constantly striving to improve Dawn Apart.
+For this purpose, we track some user-specific data that helps out a lot to create gameplay statistics and unearth shortcomings.
+
+Your data is NOT sold to third parties and only used for debugging and improving the game itself. 
+
+Do you agree with the collection and processing of your user data?</AnalyticsConsentContent>
+    <DeleteAnalyticsHistory>Delete Analytics History</DeleteAnalyticsHistory>
+    <DataDeletionContent>You are about to request the deletion of all data on our backend that has been collected with your user ID.
+
+Are you sure you want to proceed?</DataDeletionContent>
+    <DataDeletionConfirmation>We deleted all analytics data collected from your game in our backend and future analytics collection has been turned off.
+
+You can opt back in anytime in the settings menu.</DataDeletionConfirmation>
+    <DataCollectionConsent>By enabling data collection, you are helping us to improve the gameplay experience with Dawn Apart.
+
+Your data is NOT sold to third parties and only used for debugging and improving the game itself.
+
+Thank you for your support!</DataCollectionConsent>
+    
+    <LowFPSDetected>Low FPS detected, automatically adjusted video settings.</LowFPSDetected>
+    
+</Translations>

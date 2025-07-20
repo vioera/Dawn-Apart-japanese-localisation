@@ -1,0 +1,257 @@
+<Translations>
+    <hints-list>ヒント</hints-list>
+    <hints-list-description>おこまりですか？でしたら下記のヒントを御覧ください。
+        
+- 着陸船の物資を確認するには、屋根を解体するか、F2キーを押して屋根ビューを使用してください。
+        
+- 設計図は、必要な建物を持っていない場合でも配置可能です。配置後、建設可能な場合は緑色、建設できない場合は黄色で表示されます。
+
+- 任意の建物をホバーし、Cキーを押すと、自動的にその建物を設計図として選択できます。これは、地面やコンベア上の建設アイテムにも適用されます。
+
+- ブループリントを配置できないですか？ 平坦化命令を使用して、惑星の表面を平坦化してください。
+
+- 複数種類のリソースをストックパイルに割り当てるためには空のストックを選択し、貯蓄したいアイテムを
+        
+- ストックパイルには４つのスタックスロットがあります。垂直方向にストックパイルを積み重ねることが出来ますが、１スタックにつき１種類のアイテムしか格納できません。
+
+- 機械に接続されていない出力がある場合、機械を設置した際、白いインジケーターが表示されます。このインジケーターの場所が出力先となります。
+
+- イベントウィンドウはマメにチェックして下さい。クエスト、イベント、トレードオファー等が確認できます。
+- ストックパイルまたはアイテムを含む機械を右クリックして、そこからアイテムを手動運搬出来ます。
+
+- 地面に拒否アイコンが付いたリソースがある場合、ストックパイルのスペースが不足している可能性があります。
+
+- プロスペクターを招集するには、彼らを選択しRキーを押します。招集されたは名前が下線表示され、戦闘に特化した任務のみを実行します。
+
+- ストックパイルからスペースポートまでアイテムを運ぶには、運搬命令します。ストックパイルを右クリックし、移動したいアイテムを選択し、次にスペースポートを左クリックして命令します。
+
+- Mr.ソイレントを設置し、プロスペクターを養ってください</hints-list-description>
+
+    <h-roadmap-subject>ロードマップ</h-roadmap-subject>
+    <h-roadmap-description>
+First and foremost, we are incredibly grateful for your support in purchasing Dawn Apart. Your trust and enthusiasm mean the world to us, providing the opportunity to realize the game of our dreams. In this article, we'd love to share with you our ambitious vision and future plans for the game. What you see today is just the foundation of a much grander vision.
+
+ Deep, Interconnected Systems
+In Dawn Apart, "systems" refer to interconnected game mechanics that amplify gameplay depth. A simple interaction—like machines producing items, prospectors collecting them, and dealing with their consequences—illustrates how multiple systems create compelling gameplay.
+
+You place a bed inside a room filled with noisy, overheating machinery. Any prospector forced to sleep here would endure a miserable night's rest, leading to lowered morale and reduced productivity. Over time, this fatigue might result in workplace accidents, heated arguments, or even outright violence—all stemming from a single oversight.
+
+Or perhaps you construct a building out of wood — because it's cheap — to shelter your furnaces from the rain, since water extinguishes them quickly. However, the furnaces eject blazing-hot ingots directly onto your wooden floor, igniting fires almost immediately. Switching to non-flammable flooring would solve this issue, but why not turn this danger into an advantage? Strategically ignite a line of wooden planks during an attack, creating a blazing barrier to surprise and deter your enemies. Of course, keeping scorching 400-degree ingots in an enclosed, poorly ventilated room can only end well for so long…
+
+This complexity is precisely what makes interconnected systems fascinating and powerful, and we are just scratching the surface of their potential with the current version of the game.
+
+ Automation
+Automation in Dawn Apart offers a distinct experience compared to games like Factorio. While Factorio excels at delivering satisfaction through a steady, rhythmic flow, Dawn Apart focuses more on empowering you with a sense of achievement as you strategically build, plan, and even dismantle your creations. Ultimately, we aim to create what we lovingly call "the lava lamp effect": moments when you lean back and admire the bustling spectacle—gears turning, machines humming, and your workers busily scurrying around. It's the joy of watching your intricate systems come alive.
+
+We deliberately chose not to replicate Factorio’s style. Instead, Dawn Apart blends automation with engaging colony simulation, creating its own distinctive rhythm and scale. Imagine real people working inside your factory—building it, optimizing processes, expanding operations, and defending their home.
+
+ Colony Simulation
+Combining colony management and automation mechanics creates a uniquely immersive experience—one that captivated us from our earliest brainstorming sessions. In future updates, we'll deepen your relationships with your prospectors by enriching their backstories, personalities, and emotional depth.
+
+In the late game, your colony might grow to 100 prospectors or more. While getting to know each individual may not be feasible, you'll inevitably form strong attachments to some of them. Losing a trusted, longtime prospector should feel genuinely impactful, even heartbreaking, reinforcing your emotional investment in your colony's story.
+
+We greatly admire RimWorld for its ability to make players deeply care about their colonists, turning each loss into a genuinely catastrophic event. Right now, losing a prospector in Dawn Apart is unfortunate but doesn't quite carry the emotional weight we envision. Our goal is to evolve the game so that each loss feels meaningful, significant, and truly personal.
+
+ UI Improvements
+Let's be honest—the current UI isn't exactly winning any beauty contests. Right now, it's purely functional, built around the idea of "form follows function." However, significant visual upgrades and a more intuitive user experience are already planned. Our main priority remains enhancing gameplay, but you can definitely expect a sleeker, more polished UI in upcoming updates. We've drawn inspiration from games where the UI deeply enriches gameplay—think titles like Papers, Please or Planetenverteidigungskannonenkommandant (PVKK). Even small details can make a huge difference, such as literally pulling the plug in a machine's detail view to power it down.
+
+ Expanded Trading System
+The current trade system is basic, primarily functioning as a "money sink" to maintain player progression and tension. However, we envision a richer trading environment. Expect bulk traders who land directly at your spaceport, enabling immediate transactions. At one point you will run out of resources to mine on the planet. The long play will be that you will be able to buy items you need for your factory and sell your production. 
+
+Looking ahead, we dream of players crafting their own spaceships from modular components to trade directly with other factions, vastly expanding the strategic depth of your economic decisions.
+
+ Pirates and Rival Factions
+Prepare for conflict! Space pirates are coming, complete with their own outposts designed to disrupt your operations. They'll attempt raids, start their mining operations, and compete directly for resources such as the valuable Lucrum 115. Facing these pirates—and other rival factions—will provide thrilling challenges and strategic gameplay opportunities.
+
+ Prisoners and Slaves
+We want to give you the freedom to recruit beyond the traditional HR process—bringing in characters from all walks of life, regardless of their background, origin, or even skin color.
+
+Yes, that includes blue.
+
+ Vehicles
+Thanks to our successful Kickstarter campaign, we're already committed to introducing mechs with interchangeable modules for mining, terraforming, and combat. Beyond mechs, we're exploring additional vehicles, including trains, tanks, and dune buggies, to capitalize fully on our destructible, interactive world.
+
+ Buildings and Structural Integrity
+We’d love to see players using the terrain strategically—not just as a backdrop, but as an active part of the PvE challenge. We want the environment to matter, and that means discouraging exploits like building sky-high factories just to avoid conflict with Pirates or the It’aks.
+
+To support this vision, we’re introducing a structural integrity system. Initially, it will ensure that buildings are structurally sound—no more floating factories or unsupported platforms. Over time, this system will evolve: buildings and factories will collapse if their supports are destroyed. Floors will give way, and those collapses can propagate, triggering chain reactions throughout your base.
+
+This will add a whole new layer of strategy and realism to base building—encouraging thoughtful construction and making sabotage or environmental damage a real threat. 
+
+ Weather, Temperature, Biomes, Seasons
+Weather will play a crucial role in the PvE experience of Dawn Apart, introducing dynamic challenges like rain, storms, and droughts—each deeply integrated with other game systems.
+
+Take winter, for example: a foundry can serve as a valuable heat source to keep your factory warm. That’s great—if you can manage the toxic fumes it produces. But come summer, that same heat becomes a liability. You'll need to adapt by installing heat exchangers or risk overheating your factory floor.
+
+Weather won’t just be cosmetic — it’ll test your planning, adaptability, and system design at every turn.
+
+ Prospector's Health
+Currently, prospectors can be injured or killed in combat—once their health bar reaches zero, they die. But we’re planning to take this much further.
+
+In future updates, we aim to introduce a detailed health system where you’ll be able to see exactly which body part or organ was hit. This opens the door to modular healing and augmentation—replacing damaged limbs or organs with prosthetics.
+
+Piece by piece, you could rebuild your injured workforce into a kind of cybernetic borg army. Well, sort of. Think more utility and survival than unstoppable machines—but still, a very cool and strategic twist to managing your colony’s workforce.
+
+ Prospector's Needs
+Currently, prospectors have basic needs — they need to wash, use the toilet, grab a snack from the vending machine, and get some sleep. But this is just the beginning of what we envision for their overall wellbeing.
+
+Our long-term goal is to give prospectors real emotions, preferences, and relationships. Imagine senior staff forced to sleep in a loud, crowded dormitory — don’t expect their loyalty to stay high for long. Or consider the vending machine: sure, it’s convenient, but if it’s stocked with nothing but junk food, your team’s performance will decline over time.
+
+And if things get truly desperate — like running out of food entirely — well, let’s just say the prisoners might start looking like emergency rations.
+
+Your prospectors are more than just workers. They're people. And how you treat them will shape the success—or failure—of your colony.
+
+ Quality of Life (QoL) Improvements
+We acknowledge some current mechanics—such as the spaceport, stockpiles, hauling system, and production queues—might feel cumbersome. Throughout Early Access, we'll implement numerous QoL improvements, streamlining and refining gameplay to deliver a more satisfying experience.
+
+Thank you again for joining us on this exciting journey. Dawn Apart is just beginning, and we can't wait to build this incredible universe alongside you!
+
+Tony + Thilo
+
+PS: We'd love to see you join our Discord server and get involved in Dawn Apart's development. Just hit the blue Discord button on top of the screen.
+</h-roadmap-description>
+
+    <h-camera-movement-subject>Camera Movement</h-camera-movement-subject>
+    <h-camera-movement-description>Use the WASD keys or Middle Mouse Click to move the camera.
+Right click or press Q and E to rotate the camera. You can hold Shift to make 45° incremental steps with Q and E.
+Mouse wheel to zoom in and out.
+
+There is an option for scrolling on the edges of the screens in the settings.</h-camera-movement-description>
+    
+    <h-view-modes-subject>View Modes</h-view-modes-subject>
+    <h-view-modes-description>You can toggle through different view modes by pressing F1-F4 to look inside your buildings.
+
+Press F1: Normal View. Shows everything as it is.
+Press F2: No Roof View. Hides all roof tiles.
+Press F3: Level View. Removes all walls entirely. Use Tab and Ctrl to move up and down a level.
+Press F4: Foundation View. Removes walls, but keeps them visible. Also use Tab and Ctrl to move up and down a level. 
+</h-view-modes-description>
+    <h-crafting-and-building-subject>Crafting and Building</h-crafting-and-building-subject>
+    <h-crafting-and-building-description>To build machines, first craft them using a Workbench or an Assembler, then put it down as a blueprint. A worker will place them. Machines can be crafted by adding them to the production queue of a Workbench or by selecting their recipe in an Assembler.</h-crafting-and-building-description>
+    <h-energy-subject>Energy</h-energy-subject>
+    <h-energy-description>Currently, machines do not consume energy. However, future updates will introduce energy mechanics, including machines that require power to function, poles to distribute energy, and generators or reactors to produce it.</h-energy-description>
+     <h-fuel-subject>Fuel</h-fuel-subject>
+    <h-fuel-description>Some machines—such as the Furnace and Lucrum Smelter—require fuel to operate, including resources like coal, coke, or solvents.
+
+Prospectors will automatically deliver fuel to these machines when needed. For full automation, you can connect feeders from nearby stockpiles or conveyor belts to keep them continuously supplied without manual intervention.</h-fuel-description>   
+    <h-hauling-subject>Hauling</h-hauling-subject>
+    <h-hauling-description>To haul items from one location to another, right-click on a machine, stockpile, or items on the ground. A context menu will appear, allowing you to select the desired amount. Next, left-click on the destination machine or stockpile to create a hauling order. Your pawns will complete this task as soon as they're available. You can adjust the hauling priority in the Priorities window.</h-hauling-description>
+    <h-priorities-subject>Priorites</h-priorities-subject>
+    <h-priorities-description>You can adjust your prospectors' task priorities in the Priorities window by clicking on the boxes. The fuller the box, the higher the priority. A green outline indicates that the prospector is talented in that specific task and will learn it faster. The brighter (whiter) a box's background, the more experienced the prospector is in that area. If multiple tasks have equal priority, tasks further to the left will take precedence.</h-priorities-description>
+    <h-modding-subject>Modding</h-modding-subject>
+    <h-modding-description>You can freely mod Dawn Apart to your liking. All assets and events are editable through XML and VOX files located in:
+
+Dawn Apart_Data\StreamingAssets\Data
+
+We kindly ask that you distribute only your modifications, not the entire game. Enjoy creating your mods — and be sure to share them with us on our Discord server!</h-modding-description>
+    <h-schedules-subject>Schedules</h-schedules-subject>
+    <h-schedules-description>You can manage a prospector's daily schedule in the Schedule window, assigning specific time slots for tasks such as Work, Sleep, Recreation, or leaving them free to do Anything. This allows you to create structured shifts, optimizing your factory's workflow.
+
+Currently, the scheduling system isn't fully balanced—prospectors might continue working even when they're supposed to be on break. Rest assured, we're aware of this issue, and it will be addressed in future updates.</h-schedules-description>
+    <h-events-subject>Events</h-events-subject>
+    <h-events-description>You can find all communications, quests, and tutorial steps in the Events window. A small circle in front of an event’s title indicates whether it has been read — filled means unread, empty means read.</h-events-description>
+    <h-auto-feeding-subject>Auto Feeding</h-auto-feeding-subject>
+    <h-auto-feeding-description>Machines are automatically supplied by prospectors when they run low on fuel or ingredients. Prospectors aim to make their trips efficient by delivering more than the bare minimum needed for a recipe.
+
+If you want to disable this behavior, you can toggle the Auto-Feeding option in the machine's detail view (look for the icon with the little person). When turned off, prospectors will no longer restock or refuel that machine automatically.
+
+This setting is automatically disabled if the machine is connected to a feeder or built directly on the output of another machine.</h-auto-feeding-description>
+    <h-outlets-subject>Outlets</h-outlets-subject>
+    <h-outlets-description>Most machines have an outlet where produced items are ejected—this is shown as a white moving box when placing the machine’s blueprint. Make sure the outlet remains unobstructed so prospectors can access the items.
+
+You can extend these outlets by connecting other machines to create production chains for more advanced products. Alternatively, you can attach a conveyor belt or stockpile to manage and organize output more efficiently.</h-outlets-description>
+    <h-feeders-subject>Feeders</h-feeders-subject>
+    <h-feeders-description>Feeders are used to automatically transfer items between machines, stockpiles, or conveyor belts. Simply place a feeder so it overlaps both the source and the destination.
+
+Feeders will only move items required for a machine’s recipe. However, when connected to a stockpile or conveyor belt, they’ll move any available items.
+
+There are also specialized feeders:
+
+- Long Feeders have an extended range, allowing for more flexible placement.
+
+- Programmable Feeders let you specify exactly which items to transfer. To set this up, use the dropdown menu in the feeder’s detail view to select the desired items.
+
+Feeders will use both lanes to draw items from, but they will take from one lane preferrably.
+</h-feeders-description>
+    <h-conveyor-belts-subject>Conveyor Belts</h-conveyor-belts-subject>
+    <h-conveyor-belts-description>Conveyor belts transport items automatically, eliminating the need for prospectors to haul them. Each belt has two lanes, allowing for more advanced setups—whether you're optimizing throughput or managing complex recipes.
+
+Machines can output items directly onto conveyor belts without requiring a feeder. On the other hand, feeders can be used to move items onto or off conveyor belts when needed. When placing a blueprint, keep an eye on the small white box—it shows which lane the items will land on.
+
+In order to take items off a conveyor belt, you have to use feeders (see Feeders for more information)
+
+Spaceports and splitters have dedicated inlets that can be directly connected to conveyor belts, enabling smooth integration into your logistics network. (See Outlets for more information)</h-conveyor-belts-description>
+    <h-splitters-subject>Splitters</h-splitters-subject>
+    <h-splitters-description>Splitters pull items from both lanes of a conveyor belt through their inlet and evenly divide them—50/50—between two connected belts via their outlets. This allows you to efficiently distribute resources across your factory.
+
+Tip: By chaining multiple splitters, you can fine-tune the flow and direct specific portions of your production where they’re needed most. It’s a powerful tool for balancing complex logistics.</h-splitters-description>
+    <h-performance-subject>Performance</h-performance-subject>
+    <h-performance-description>If you're noticing high GPU usage, try disabling shadows. This can significantly reduce energy consumption and improve performance.
+
+If you're experiencing a low framerate, consider disabling shadows and using the fixed resolution scaling option.
+Reducing the resolution (for example to 70%) can help boost performance without sacrificing much visual quality, especially on smaller screens.</h-performance-description>
+    <h-combat-subject>Combat</h-combat-subject>
+    <h-combat-description>To make your prospectors defend themselves, you have to enlist them by selecting them and press R.
+    
+ Sirius B-3 is a hostile and unpredictable world. The native It’aks eye your technology with envy and covet the sacred Lucrum 115 you extract and launch offworld. At dawn, they may strike, determined to reclaim what they believe is rightfully theirs. Not all It’aks are hostile — some are peaceful and pose no threat. How you choose to engage with them is entirely up to you.
+
+Another faction you'll encounter are space pirates. While they may raid your settlement, they aren't just enemies — they have the potential to become valuable trade partners.
+
+During an attack, you can sound the alarm (see more under Safe Zone) to have your prospectors drop what they're doing and run to safety, no matter where they are.
+
+To defend your colony, you’ll need to enlist your prospectors by pressing R. Once enlisted, they’ll stop their current tasks and automatically seek out and engage nearby enemies—provided they’re armed.
+
+In battle, prospectors can be killed or incapacitated—often due to the loss of a limb. Incapacitated individuals can be carried to a Regeneration Pod, where their limbs will be regrown. If they’re still able to walk, they may make it to a pod on their own.
+
+However, repeated exposure to death and violence can leave a psychological toll. Prospectors who witness too many losses may become traumatized, causing them to flee and temporarily ignore your commands until they’ve recovered from the fear. Same goes for raiders. If they loose to many people they might abandon their attack.</h-combat-description>
+    <h-safe-zone-subject>Safe Zone</h-safe-zone-subject>
+    <h-safe-zone-description>You can define safe zones using the Safe and Unsafe buttons. It's recommended to place your safe zone within a well-defended compound to protect your prospectors during attacks.
+
+When you hit the red alarm button, a siren will sound, and all prospectors will immediately stop their current tasks and run to the designated safe zone. While inside the safe zone, they will continue working during an alarm — unless you enlist them for combat.</h-safe-zone-description>
+    <h-doors-subject>Doors</h-doors-subject>
+    <h-doors-description>Doors serve a dual purpose: they keep enemies out and help retain warmth inside your structures. However, if a door closes while an enemy is trying to slip through, they might be able to pry it open.
+
+So, keep an eye out for tailgaters—enemies who sneak in right behind your prospectors. Stay alert, and don’t let your guard down!</h-doors-description>
+    <h-food-subject>Food</h-food-subject>
+    <h-food-description>A vending machine which dispenses food. At the moment nothing more than a regular necessity for your prospectors. In the future we plan on having a whole eco-system around providing food.</h-food-description>
+    <h-needs-subject>Needs</h-needs-subject>
+    <h-needs-description>Prospectors have to go to the toilet, wash themselves, eat something and get some sleep.
+For that they need a toilet, a sink, a Mr. Soylent vending machine and a bed. All of them can be shared at the moment. Check out our roadmap for the ideas we have to expand these systems.</h-needs-description>
+    <h-orders-subject>Orders</h-orders-subject>
+    <h-orders-description>Your prospectors are the backbone of your factory — your indispensable workforce. You can assign them to carry out essential tasks such as:
+- Cutting trees
+- Hauling items
+- Mining ores
+- Leveling terrain
+- Deconstructing buildings
+
+To manage these tasks more effectively, you also have tools like:
+- Allow/Deny Items – Control which items can be interacted with or moved.
+- Clear Orders – Cancel existing tasks to quickly adapt to changing priorities.  
+
+You can find the orders menu on the bottom of your screen, visible at all times. 
+    </h-orders-description>
+    <h-spaceports-trades-subject>Spaceports and Trades</h-spaceports-trades-subject>
+    <h-spaceports-trades-description>To trade products, you’ll need a spaceport. Each spaceport has a landing zone, and the size of that zone determines what class of ships can land there.
+
+When a trade opportunity becomes available, it will appear in the Events window. Open the event, scroll down, and click Accept to confirm the trade. In some cases, you may also be able to choose which spaceport the trader should land on.
+
+Once accepted, the trader will be on route and lands on the space port after some time. During this time, make sure all required materials are available at the selected spaceport. You can deliver items by having prospectors haul them manually or by connecting a conveyor belt to the port’s inlet (see Outlets in the Help menu for details).
+
+Once the trade conditions are met, the trader will drop off payment at the spaceport and immediately vacate the landing zone.</h-spaceports-trades-description>
+    <h-mining-subject>Mining</h-mining-subject>
+    <h-mining-description>You can extract ore deposits using either your prospectors or specialized machines like the Small Miner.
+
+However, some resources—such as Lucrum 115—require advanced mining equipment. For example, the Lucrum 115 Miner is specifically designed for this task and needs Solvents to function properly.</h-mining-description>
+
+    
+    <bubble-converter-recipe>No Recipe</bubble-converter-recipe>
+    <bubble-converter-fuel>Missing Fuel</bubble-converter-fuel>
+    <bubble-converter-ingredients>Missing Ingredients</bubble-converter-ingredients>
+    <bubble-blueprint-not-in-stockpile>Not in Stockpile</bubble-blueprint-not-in-stockpile>
+    <bubble-deposit-depleted>Deposit depleted</bubble-deposit-depleted>
+    <bubble-workstation-missing-ingredients>Missing Ingredients</bubble-workstation-missing-ingredients>
+    <bubble-trader-arriving>Arriving In {0}</bubble-trader-arriving>
+    <bubble-trader-departing>Departing In {0}</bubble-trader-departing>
+
+</Translations>
