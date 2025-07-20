@@ -1,0 +1,244 @@
+<Translations>
+    <meteor>Meteor</meteor>
+    <meteor-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</meteor-description>
+
+    <wood>木</wood>
+    <wood-description>切り出した木材の束</wood-description>
+
+    <crude-oil>原油</crude-oil>
+    <crude-oil-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</crude-oil-description>
+    
+    <stone>花崗岩</stone>
+    <stone-description>まとめられた石</stone-description>
+
+    <stone-block>花崗岩ブロック</stone-block>
+    <stone-block-description>花崗岩をブロックにしたもの</stone-block-description>
+
+    <coal>石炭</coal>
+    <coal-description>石炭をまとめたもの。燃料に使われる</coal-description>
+
+    <coke>コークス</coke>
+    <coke-description>石炭より効率のいい燃料</coke-description>
+
+    <copper-ore>カッパー鉱石</copper-ore>
+    <copper-ore-description>まとめた銅の原石</copper-ore-description>
+
+    <copper-ingot>カッパーインゴット</copper-ingot>
+    <copper-ingot-description>精錬された銅。様々な用途に使われる</copper-ingot-description>
+
+    <copper-block>カッパーブロック</copper-block>
+    <copper-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</copper-block-description>
+
+    <copper-rods>銅ロッド</copper-rods>
+    <copper-rods-description>銅でできた棒</copper-rods-description>
+
+    <copper-plate>カッパープレート</copper-plate>
+    <copper-plate-description>銅でできた板</copper-plate-description>
+
+    <copper-pipe>カッパーパイプ</copper-pipe>
+    <copper-pipe-description>銅でできた管</copper-pipe-description>
+
+    <copper-wire>カッパーワイヤー</copper-wire>
+    <copper-wire-description>銅でできた細線</copper-wire-description>
+
+    <copper-cable>カッパーケーブル</copper-cable>
+    <copper-cable-description>ドラム状の銅ケーブル</copper-cable-description>
+
+    <copper-barbed-wire-fence>有刺鉄線フェンス（カッパー）</copper-barbed-wire-fence>
+    <copper-barbed-wire-fence-description>銅製の有刺鉄線</copper-barbed-wire-fence-description>
+    
+    <iron-ore>アイアン鉱石</iron-ore>
+    <iron-ore-description>まとめられた鉄の原石</iron-ore-description>
+    
+    <iron-ingot>アイアンインゴット</iron-ingot>
+    <iron-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</iron-ingot-description>
+
+    <iron-block>アイアンブロック</iron-block>
+    <iron-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</iron-block-description>
+    
+    <steel-ingot>スチールインゴット</steel-ingot>
+    <steel-ingot-description>精錬された鉄。様々な用途に使われる</steel-ingot-description>
+
+    <hardened-steel-block>Hardened Steel Block</hardened-steel-block>
+    <hardened-steel-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</hardened-steel-block-description>
+
+    <stainless-steel-block>Stainless Steel Block</stainless-steel-block>
+    <stainless-steel-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</stainless-steel-block-description>
+
+    <steel-gear>スチールギア</steel-gear>
+    <steel-gear-description>鋼鉄製の歯車</steel-gear-description>
+    
+    <steel-plate>スチールプレート</steel-plate>
+    <steel-plate-description>鋼鉄製の板</steel-plate-description>
+    
+    <steel-pipe>スチールパイプ</steel-pipe>
+    <steel-pipe-description>鋼鉄製の管</steel-pipe-description>
+    
+    <steel-cable>スチールゲーブル</steel-cable>
+    <steel-cable-description>鋼鉄製のケーブル</steel-cable-description>
+    
+    <steel-mesh>スチールメッシュ</steel-mesh>
+    <steel-mesh-description>鋼鉄製の網.</steel-mesh-description>
+
+    <steel-screws>スチールネジ</steel-screws>
+    <steel-screws-description>鋼鉄製のネジ</steel-screws-description>
+    
+    <steel-barbed-wire-fence>有刺鉄線フェンス（スチール）</steel-barbed-wire-fence>
+    <steel-barbed-wire-fence-description>鋼鉄製の有刺鉄線</steel-barbed-wire-fence-description>
+
+    <lucrum-ore>Lucrum 115</lucrum-ore>
+    <lucrum-ore-description>この銀河で最も価値のある希少原石</lucrum-ore-description>
+
+    <lucrum-ingot>Lucrum 115インゴット</lucrum-ingot>
+    <lucrum-ingot-description>精錬されたLucrum 115</lucrum-ingot-description>
+
+    <lucrum-coil>Lucrum 115コイル</lucrum-coil>
+    <lucrum-coil-description>Lucrum 115製のコイル。FTLエンジンの燃料に使われる</lucrum-coil-description>
+
+    <cobaltite-ore>コバルト鉱石</cobaltite-ore>
+    <cobaltite-ore-description>まとめられたコバルトの原石</cobaltite-ore-description>
+
+    <nickel-ingot>ニッケル鉱石</nickel-ingot>
+    <nickel-ingot-description>まとめられたニッケルの原石（インゴット？）</nickel-ingot-description>
+
+    <gold-ore>ゴールド鉱石</gold-ore>
+    <gold-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-ore-description>
+
+    <gold-ingot>ゴールドインゴット</gold-ingot>
+    <gold-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-ingot-description>
+
+    <gold-block>ゴールドブロック</gold-block>
+    <gold-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-block-description>
+    
+    <gold-pole>ゴールドポール</gold-pole>
+    <gold-pole-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-pole-description>
+
+    <gold-plate>ゴールドプレート</gold-plate>
+    <gold-plate-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-plate-description>
+
+    <gold-pipe>ゴールドパイプ</gold-pipe>
+    <gold-pipe-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-pipe-description>
+
+    <gold-cable>ゴールドケーブル</gold-cable>
+    <gold-cable-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-cable-description>
+
+    <gold-mesh>ゴールドメッシュ</gold-mesh>
+    <gold-mesh-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-mesh-description>
+
+    <gold-barbed-wire-fence>有刺鉄線フェンス（ゴールド）</gold-barbed-wire-fence>
+    <gold-barbed-wire-fence-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gold-barbed-wire-fence-description>
+    
+    <lead-ore>リード鉱石</lead-ore>
+    <lead-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-ore-description>
+
+    <lead-ingot>リードインゴット</lead-ingot>
+    <lead-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-ingot-description>
+
+    <lead-block>リードブロック</lead-block>
+    <lead-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-block-description>
+
+    <lead-pole>リードポール</lead-pole>
+    <lead-pole-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-pole-description>
+
+    <lead-plate>リードプレート</lead-plate>
+    <lead-plate-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-plate-description>
+
+    <lead-pipe>リードパイプ</lead-pipe>
+    <lead-pipe-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-pipe-description>
+
+    <lead-cable>リードケーブル</lead-cable>
+    <lead-cable-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-cable-description>
+
+    <lead-mesh>リードメッシュ</lead-mesh>
+    <lead-mesh-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-mesh-description>
+
+    <lead-barbed-wire-fence>有刺鉄線のフェンス（リード）</lead-barbed-wire-fence>
+    <lead-barbed-wire-fence-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</lead-barbed-wire-fence-description>
+
+    <quartz>水晶</quartz>
+    <quartz-description>まとめられた水晶</quartz-description>
+
+    <silicone>シリコン</silicone>
+    <silicone-description>化学製品で使われる材料</silicone-description>
+
+    <simple-circuit-board>回路基板</simple-circuit-board>
+    <simple-circuit-board-description>半導体をつかった回路基板</simple-circuit-board-description>
+
+    <rutile>ルチル</rutile>
+    <rutile-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</rutile-description>
+
+    <titanium-ingot>チタニウムインゴット</titanium-ingot>
+    <titanium-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</titanium-ingot-description>
+
+    <dynamite>ダイナマイト</dynamite>
+    <dynamite-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</dynamite-description>
+
+    <gunpowder>火薬</gunpowder>
+    <gunpowder-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</gunpowder-description>
+
+    <artillery-shells>砲弾</artillery-shells>
+    <artillery-shells-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</artillery-shells-description>
+
+    <silver-ore>シルバー鉱石</silver-ore>
+    <silver-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-ore-description>
+
+    <silver-ingot>シルバーインゴット</silver-ingot>
+    <silver-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-ingot-description>
+
+    <silver-block>!シルバーブロック</silver-block>
+    <silver-block-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-block-description>
+
+    <silver-pole>シルバーポール</silver-pole>
+    <silver-pole-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-pole-description>
+
+    <silver-plate>シルバープレート</silver-plate>
+    <silver-plate-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-plate-description>
+
+    <silver-pipe>シルバーパイプ</silver-pipe>
+    <silver-pipe-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-pipe-description>
+
+    <silver-cable>シルバーケーブル</silver-cable>
+    <silver-cable-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-cable-description>
+
+    <silver-mesh>シルバーメッシュ</silver-mesh>
+    <silver-mesh-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-mesh-description>
+
+    <silver-barbed-wire-fence>有刺鉄線のフェンス（シルバー）</silver-barbed-wire-fence>
+    <silver-barbed-wire-fence-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</silver-barbed-wire-fence-description>
+
+    <sulfur-ore>硫黄</sulfur-ore>
+    <sulfur-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sulfur-ore-description>
+
+    <tungsten-ore>タングステン鉱石</tungsten-ore>
+    <tungsten-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</tungsten-ore-description>
+
+    <bauxite-ore>ボーキサイト</bauxite-ore>
+    <bauxite-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</bauxite-ore-description>
+
+    <aluminum-ore>アルミニウム鉱石</aluminum-ore>
+    <aluminum-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</aluminum-ore-description>
+
+    <aluminum-ingot>アルミニウムインゴット</aluminum-ingot>
+    <aluminum-ingot-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</aluminum-ingot-description>
+
+	<zinc-ore>亜鉛鉱石</zinc-ore>
+	<zinc-ore-description>!Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</zinc-ore-description>
+
+	<solvent-red>レッド溶媒</solvent-red>
+	<solvent-red-description>化学溶剤。lucrum115を安定した状態で抽出するための溶媒</solvent-red-description>
+
+	<solvent-green>グリーン溶媒</solvent-green>
+	<solvent-green-description>化学溶剤。lucrum115を安定した状態で抽出するための溶媒。レッド溶媒より優れている</solvent-green-description>
+
+	<solvent-blue>ブルー溶媒</solvent-blue>
+	<solvent-blue-description>化学溶剤。lucrum115を安定した状態で抽出するための溶媒。グリーン溶媒より強力な溶媒</solvent-blue-description>
+
+    <glass>ガラス</glass>
+    <glass-description>シート状のガラス</glass-description>
+
+	<item-lock>アイテムロック</item-lock>
+	<item-lock-description>ストックを空にし、アイテムを受け入れない</item-lock-description>
+
+	<item-any>アイテム受け入れ</item-any>
+	<item-any-description>全てのアイテムを受け入れる</item-any-description>
+</Translations>

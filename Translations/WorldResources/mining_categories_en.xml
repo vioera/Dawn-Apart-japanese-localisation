@@ -1,0 +1,16 @@
+<Translations>
+    <tier-1-ore-category>Tier 1 鉱石</tier-1-ore-category>
+    <tier-1-ore-category-description>!Tier 1 Ore category description</tier-1-ore-category-description>
+
+    <lucrum-category>Lucrum</lucrum-category>
+    <lucrum-category-description>!Lucrum category description</lucrum-category-description>
+
+    <water-category>水</water-category>
+    <water-category-description>!Water category description</water-category-description>
+
+    <oil-category>オイル</oil-category>
+    <oil-category-description>!Oil category description</oil-category-description>
+
+    <waste-category>廃棄物</waste-category>
+    <waste-category-description>!Waste category description</waste-category-description>
+</Translations>

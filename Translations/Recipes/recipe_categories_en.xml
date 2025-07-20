@@ -1,0 +1,49 @@
+<Translations>
+    <assembly-category>Assembly</assembly-category>
+    <assembly-category-description>!Assembly category description</assembly-category-description>
+
+    <crimper-category>Crimper</crimper-category>
+    <crimper-category-description>!Crimper category description</crimper-category-description>
+
+    <cutter-category>Cutter</cutter-category>
+    <cutter-category-description>!Cutter category description</cutter-category-description>
+
+    <drill-category>Drill</drill-category>
+    <drill-category-description>!Drill category description</drill-category-description>
+
+    <lathe-category>Lathe</lathe-category>
+    <lathe-category-description>!Lathe category description</lathe-category-description>
+
+    <punch-press-category>Punch Press</punch-press-category>
+    <punch-press-category-description>!Punch press category description</punch-press-category-description>
+
+    <wire-drawing-category>Wire Drawing</wire-drawing-category>
+    <wire-drawing-category-description>!Wire Drawing category description</wire-drawing-category-description>
+
+    <refining-category>Refining</refining-category>
+    <refining-category-description>!Refining category description</refining-category-description>
+    
+    <gas-refining-category>Gas Refining</gas-refining-category>
+    <gas-refining-category-description>!Gas Refining category description</gas-refining-category-description>
+
+    <blast-furnace-category>Blast Furnace</blast-furnace-category>
+    <blast-furnace-category-description>!Blast Furnace category description</blast-furnace-category-description>
+
+    <steel-furnace-category>Steel Furnace</steel-furnace-category>
+    <steel-furnace-category-description>!Steel Furnace category description</steel-furnace-category-description>
+
+    <electric-furnace-category>Electric Furnace</electric-furnace-category>
+    <electric-furnace-category-description>!Electric Furnace category description</electric-furnace-category-description>
+
+    <blast-or-electric-furnace-category>Blast or Electric Furnace</blast-or-electric-furnace-category>
+    <blast-or-electric-furnace-category-description>!Blast or Electric Furnace category description</blast-or-electric-furnace-category-description>
+
+    <lucrum-smelter-category>Lucrum Smelter</lucrum-smelter-category>
+    <lucrum-smelter-category-description>A furnace which can smelt Lucrum 115</lucrum-smelter-category-description>
+    
+    <casting-machine-category>Lucrum-Coil-Press</casting-machine-category>
+    <casting-machine-category-description>Press which makes Lucrum coils</casting-machine-category-description>
+
+    <chemical-recipe-category>!Chemical Category</chemical-recipe-category>
+    <chemical-recipe-category-description>!Chemical Category Description</chemical-recipe-category-description>
+</Translations>

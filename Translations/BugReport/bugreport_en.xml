@@ -1,0 +1,21 @@
+<Translations>
+	<ReportABug>Report a Bug</ReportABug>
+	<SendBugReport>Send Bug Report</SendBugReport>
+	<YourDiscordName>Your Discord Name (optional):</YourDiscordName>
+	<WhatBug>What bug (three or less words):</WhatBug>
+	<HowToReproduce>How can we reproduce this bug:</HowToReproduce>
+	<AutomaticSaveInfo>We make an automatic save file and transfer this with your description and a screenshot.</AutomaticSaveInfo>
+	<WantToBeAnonymous>I want to be anonymous</WantToBeAnonymous>
+	<SendReport>Send Report</SendReport>
+	<Sending>Sending</Sending>
+	<SendingInfo>The bug report is being submitted...</SendingInfo>
+	<Error>Error</Error>
+	<ErrorInfo>There was an error sending the bug report.
+		Please make sure to fill out all necessary fields (title and description) or try again later.
+
+		Thank you for your support!</ErrorInfo>
+	<ThankYou>Thank You</ThankYou>
+	<ThankYouInfo>The bug was submitted successfully.
+
+		Thank you for your support!</ThankYouInfo>
+</Translations>
