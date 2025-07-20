@@ -1,9 +1,0 @@
-<Translations>
-    <GameSeed>シード:</GameSeed>
-    <StartNewWorld>ニューゲーム スタート</StartNewWorld>
-    <PlaceholderGameSeed>シードを入力してください...</PlaceholderGameSeed>
-    
-    <WorldGenPipeline>ワールド ジェン パイプライン:</WorldGenPipeline>
-    <PremadeWorldGen>シリウス B 3</PremadeWorldGen>
-    <ProceduralWorldGen>手続き</ProceduralWorldGen>
-</Translations>
